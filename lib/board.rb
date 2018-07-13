@@ -1,2 +1,2 @@
 # Define the variable board below.
-Array.new(9," ")
+board=[" ", " "," "," "," "," "," "," "," "]
